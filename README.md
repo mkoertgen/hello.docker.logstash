@@ -7,6 +7,8 @@ A quick experiment evaluating the various [docker images for an ELK stack](https
 - [sebp/elk](https://registry.hub.docker.com/u/sebp/elk/)
 - ...
 
+For now i checked `sebp/elk` which looks good.
+
 ## Prerequisites
 
 You should have installed
